@@ -835,6 +835,54 @@ h4 {
         text-align: center;
         margin: 30px 220px;
     }
+    .suorat img {
+        display: block;
+        margin: 25px 80px;
+    }
+    .textsuorat {
+        margin: 0 80px;
+    }
+    .textsuorat p {
+        margin: 10px 0px;
+    }
+    .sup img {
+        display: block;
+        margin: 25px 80px;
+    }
+    .textsup {
+        margin: 0 80px;
+    }
+    .textsup p {
+        margin: 10px 0px;
+    }
+    .syrmyaco img {
+        display: block;
+        margin: 25px 80px;
+    }
+    .sobo img {
+        display: block;
+        margin: 25px 80px;
+    }
+    .martyshka img {
+        display: block;
+        margin: 25px 80px;
+    }
+    .khaan img {
+        display: block;
+        margin: 25px 80px;
+    }
+    .khaan1 img {
+        width: 550px;
+        height: 380px;
+        margin: auto;
+        border-radius: 9px;
+    }
+    .textkishki {
+        margin: 0 80px;
+    }
+    .textkishki p {
+        margin: 10px 0px;
+    }
 }
 @media screen and (max-width: 767px){
     .search-box{
@@ -944,5 +992,76 @@ h4 {
     }
     .contactT {
         font-size: 20px;
+    }
+    .suorat img {
+        display: block;
+        margin: 10px 25px;
+        max-width: 270px;
+        height: 175px;
+    }
+    .textsuorat {
+        margin: 0 25px;
+    }
+    .textsuorat p {
+        margin: 10px 0px;
+        font-size: 15px;
+    }
+    .sup img {
+        display: block;
+        margin: 10px 25px;
+        max-width: 270px;
+        height: 175px;
+    }
+    .textsup {
+        margin: 0 25px;
+    }
+    .textsup p {
+        margin: 10px 0px;
+        font-size: 15px;
+    }
+    .syrmyaco img {
+        display: block;
+        margin: 10px 25px;
+        max-width: 270px;
+        height: 175px;
+    }
+    .sobo img {
+        display: block;
+        margin: 10px 25px;
+        max-width: 270px;
+        height: 175px;
+    }
+    .martyshka img {
+        display: block;
+        margin: 10px 25px;
+        max-width: 270px;
+        height: 175px;
+    }
+    .khaan img {
+        display: block;
+        margin: 10px 25px;
+        max-width: 270px;
+        height: 175px;
+        
+    }
+    .texxt {
+        font-size: 45px;
+    }
+    .textkishki {
+        margin: 0 25px;
+    }
+    .textkishki img{
+        display: block;
+        margin: auto;
+    }
+    .textkishki p {
+        margin: 10px 0px;
+        font-size: 15px;
+    }
+    .khaan1 img {
+        width: 240px;
+        height: 150px;
+        margin: auto;
+        border-radius: 9px;
     }
 }
