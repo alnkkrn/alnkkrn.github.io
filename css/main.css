@@ -907,6 +907,9 @@ h4 {
         display: block;
         margin: 10px;
     }
+    .textbludo h2 {
+        padding-top: 30px;
+}
     .textr {
         margin: 25px;
     }
