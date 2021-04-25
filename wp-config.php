@@ -20,13 +20,13 @@
 
 // ** Параметры MySQL: Эту информацию можно получить у вашего хостинг-провайдера ** //
 /** Имя базы данных для WordPress */
-define( 'DB_NAME', 'newprojectalin' );
+define( 'DB_NAME', 'co11762_golub' );
 
 /** Имя пользователя MySQL */
-define( 'DB_USER', 'root' );
+define( 'DB_USER', 'co11762_golub' );
 
 /** Пароль к базе данных MySQL */
-define( 'DB_PASSWORD', 'root' );
+define( 'DB_PASSWORD', 'NJikb7b1' );
 
 /** Имя сервера MySQL */
 define( 'DB_HOST', 'localhost' );
@@ -46,14 +46,14 @@ define( 'DB_COLLATE', '' );
  *
  * @since 2.6.0
  */
-define( 'AUTH_KEY',         '$]-SDegiDI=p4,/y*7&tk6@9aDpuZ-K>P>U[YC|8ijU,!PMvH l*1OywlLm))oM*' );
-define( 'SECURE_AUTH_KEY',  'V)6-r>,1fLFT?Gfs+qqGKaFg;c/U{d}IeywXY$>;?OB^tPSEY!3tiq! m?$a4Mj.' );
-define( 'LOGGED_IN_KEY',    '`0/wHyBt_e(Pq]TN6Kr[f:}5a7BXNZJ_@(G!aW/X2ho_bg7efnYH0*(FW&<~iEdj' );
-define( 'NONCE_KEY',        '_;QDSZ/Vx5?%0O^7@rWPw7ChxEmnL.3A%+0,n:~P<Ij_04Z?2deABi2G0orvSo`3' );
-define( 'AUTH_SALT',        '>4),pZ_ p3KC?-QkT,EM,%wgN(0O[1H?)R&e=rX0G6#:Gg= PpMQXu5!b/^O}gd6' );
-define( 'SECURE_AUTH_SALT', 'GXU~{,wd?PF=/_{hTM>nT{O@nHNbeh<t@$<lKq{)s3.8F*ZoM9Y((=g?+iCH2U`j' );
-define( 'LOGGED_IN_SALT',   'gzk+}YOg{cC9~.15zy0!!4Ai ^qN]H%!/z(.9=i)Ar D8F ?3rH{3$1bq^-!!23_' );
-define( 'NONCE_SALT',       '_1i)YhUg+X+ThspQ3[oQk=S?sl[)Q?ws>C^cOisJ6,FRzK~]C(<t{j0;j3jk?+TI' );
+define('AUTH_KEY',         '*Z&H,nf7n)<a|`97VfjC`CKADJ|5|dy0N2V3ps7Gn`iBc0_mMj`K4Y6Wt+%RK.CM');
+define('SECURE_AUTH_KEY',  '{P0d&Uicu6vqnKyF?%U!|FN6{[*-:LiHcxbC#YF+x[6N.!<[->h~sCaV-+ubu~G,');
+define('LOGGED_IN_KEY',    '`ye{@e1MIkZ1SG+zG/1-Uc herLF9ojlN.+ZHq>LwCX =l@l)K&T+)SNXN(yTIR<');
+define('NONCE_KEY',        '@cC8&4Pnk~vx~U!jj$;&RAJ0^W|_2@MW3ooL=imxALsc{+EqhA+UE;b;Ft3cjb6g');
+define('AUTH_SALT',        'ISG%`BV+6wNfeJYw;=80+=D2_M~R Cay~T_)W(~QTdF+lXQ)-x)eN*ewI=%i.+y*');
+define('SECURE_AUTH_SALT', '`7w#iEOIo/(P6F9x<dn4;b}L2LEZ8Rj-B,t];BlRwNXG^1*s#[R{A=3;WVB%o!$i');
+define('LOGGED_IN_SALT',   '@FPBmk~9u.(hJ<l_8fr@Ib:tDT?>dc^&<^Y&[cr6 a3P!l<yn%ail*3OdQy0 0X{');
+define('NONCE_SALT',       'YhxQUSMS;w::+Is~/AlQW+xm?h<]nFi14Ws@2/bd]fznUEr><T6}u{{T*X/<n:t~');
 
 /**#@-*/
 
